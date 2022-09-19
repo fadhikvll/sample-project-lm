@@ -1,0 +1,74 @@
+.header{
+    background: #01194d;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0%;
+    font-family: Helvetica Neue, Helvetica, Arial, Helvetica, sans-serif
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+    
+}
+.login{
+    width: 50%;
+   float: left;
+   padding-top: 10px;
+}
+.logo-text{
+    color: #fff;
+    font-size: 38px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, Helvetica, sans-serif;   
+    margin-left: 155px; 
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-controls{
+    margin-left: 60px;
+}
+.forgotten{
+    color: #9cb4d8;
+font-size: 12px;
+text-decoration: none;
+}
+.sub-btn{
+background-color: #4267b2;
+color: #fff;
+height: 20px;
+border-color: #29487d;
+cursor: pointer;
+}
+.sub-btn:hover{
+    background-color: #03630b;
+}
+.left-section{
+    width: 50%;
+    float: left;
+}
+
+.main-body{
+    background:linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+}
+.para{
+    font-weight:bold;
+    font-size: 21px;
+    padding-left: 160px;
+    padding-top: 30px;
+}
+
+.right-section{
+    float: right;
+    font-weight:bold;
+    font-size: 16px;
+    padding-right  :200px;
+}
+

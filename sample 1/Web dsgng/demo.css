@@ -1,0 +1,26 @@
+.header{
+    width: 100%;
+    height: 150px;
+    background: gold;
+}
+.left-section{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background: darkslategray;
+}
+.right-section{
+    width: 80%;
+    float: right;
+    height: 400px;
+    background: rgb(7, 1, 12);
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background: rgb(238, 10, 98);
+}
+.content{
+    height: 400px;
+}
+
